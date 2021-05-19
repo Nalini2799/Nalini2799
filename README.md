@@ -1,6 +1,6 @@
 ### Hi...I am Nalini!👋
 
-- 📉📊 I’m currently working on Data Science and Analytics.
+- 📉📊 I’m currently working on Data Visualization and modeling.
 - 🏆 Achievements : Smart India Hackerthon Winner 2020.
 - Skill sets: </br>
  ### Languages : C++,Python,SQL,HTML
