@@ -1,7 +1,6 @@
 ### Hi...I am Nalini!👋
 
-- 📉📊 I’m currently working on Data Visualization and modeling.
-- 🏆 Achievements : Smart India Hackerthon Winner 2020.
+- 📉📊 I’m currently working as Data Engineer in Fractal.ai
 - Skill sets: </br>
  ### Languages : Python,SQL,HTML,SparkSQL.
  ### Tech Stack: Django,Azure,Streamlit,SAP
